@@ -60,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourusername.github.io/javascript-calculator)
+- [Live Demo Link](https://mohammadhamzamushtaqhashmi.github.io/javascript-calculator/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
